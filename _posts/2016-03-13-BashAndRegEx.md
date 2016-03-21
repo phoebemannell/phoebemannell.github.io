@@ -1,3 +1,8 @@
+---
+layout: post
+title: Command Line and Regular Expressions
+---
+
 **Intro to Bash Command Line and Counting and Mining Research Data with Unix**
 
 The Bash Command Line tutorial probably should have been tutorial #1. Oh my god my life would have been so much easier if I had learned these things systematically at an earlier point. I know Shawn has already stated that he meant to have this earlier in the lesson plan, but it is definitely a necessary opening lesson for those planning on working in digital history. 
